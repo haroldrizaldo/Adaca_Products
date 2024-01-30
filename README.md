@@ -25,4 +25,4 @@ List of dependencies that users need to install before running your project.
 1. Clone the repository:
 
    ```bash
-   git clone [[https://github.com/haroldrizaldo/Adaca_Products.git](https://github.com/haroldrizaldo/Adaca_Products.git)](https://github.com/haroldrizaldo/Adaca_Products.git)https://github.com/haroldrizaldo/Adaca_Products.git
+   git clone https://github.com/haroldrizaldo/Adaca_Products.git
