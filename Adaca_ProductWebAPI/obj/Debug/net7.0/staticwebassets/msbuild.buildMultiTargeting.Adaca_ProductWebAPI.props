@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Adaca_ProductWebAPI.props" />
+</Project>
