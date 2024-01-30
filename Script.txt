@@ -1,0 +1,15 @@
+USE [Adaca_LocalDB]
+GO
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Products] (
+    [Id]          INT             IDENTITY (1, 1) NOT NULL,
+    [Name]        NVARCHAR (255)  NOT NULL,
+    [Description] NVARCHAR (MAX)  NOT NULL,
+    [Price]       DECIMAL (18, 2) NOT NULL CHECK ([Price] > 0)
+);
