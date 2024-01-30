@@ -15,9 +15,9 @@ To get started, we need to setup the following first:
 
 ### Prerequisites
 
-List any software, tools, or dependencies that users need to install before running your project.
+List of dependencies that users need to install before running your project.
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) - version X.X.X
+- [.NET Core SDK](https://dotnet.microsoft.com/download) - version 7.X.X
 - [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/) (optional)
 
 ### Installation
@@ -25,4 +25,4 @@ List any software, tools, or dependencies that users need to install before runn
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone [[https://github.com/haroldrizaldo/Adaca_Products.git](https://github.com/haroldrizaldo/Adaca_Products.git)](https://github.com/haroldrizaldo/Adaca_Products.git)https://github.com/haroldrizaldo/Adaca_Products.git
